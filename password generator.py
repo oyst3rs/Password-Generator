@@ -21,7 +21,7 @@ nr_symbols = int(input("How many symbols would you like? "))
 #blank list for program to append characters to 
 password_list = []
 
-#for each integer the character inputs in the previous step it takes that
+#for each integer the user inputs in the previous step it takes that
 #and creates a for loop between a range of 0 and what the user inputs 
 
 for char in range(1, nr_letters + 1):
